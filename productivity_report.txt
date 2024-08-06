@@ -1,0 +1,14 @@
+
+Productivity Report
+-------------------
+Task Completion Rate: 40.0%
+Average Completion Time: 0.0 days
+Number of Overdue Tasks: 1
+
+Task Distribution:
+{'Learning': 3, 'Playing': 2}
+
+Recommendations:
+1. Try to improve your task completion rate.
+2. You're completing tasks in a timely manner!
+3. Focus on completing overdue tasks.

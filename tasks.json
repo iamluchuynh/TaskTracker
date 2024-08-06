@@ -1,0 +1,54 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Complete Python Project",
+      "category": "Learning",
+      "description": "Finish the task management system project for the Python course",
+      "add_date": "2023-07-15",
+      "due_date": "2023-07-30",
+      "finished_date": "2023-7-29",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Complete Embedded Project",
+      "category": "Learning",
+      "description": "Use STM32F207VCT6 to control 7_Segment_LED with Timer",
+      "add_date": "2024-08-06",
+      "due_date": "2024-09-25",
+      "finished_date": null,
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Playing Pickle Ball",
+      "category": "Playing",
+      "description": "Learn to play a new sport",
+      "add_date": "2024-08-06",
+      "due_date": "2024-10-29",
+      "finished_date": "2024-08-06",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "title": "Playing Table Tennis",
+      "category": "Playing",
+      "description": "Practice Table Tennis for Olympics",
+      "add_date": "2024-08-06",
+      "due_date": "2024-11-11",
+      "finished_date": null,
+      "completed": false
+    },
+    {
+      "id": 5,
+      "title": "Machine Learning",
+      "category": "Learning",
+      "description": "Learning Machine Learning for Data Analyst",
+      "add_date": "2024-08-06",
+      "due_date": "2024-12-12",
+      "finished_date": "2024-08-06",
+      "completed": true
+    }
+  ]
+}
